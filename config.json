@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automacao-relatorios-python",
+      "title": "Automação de Relatórios com Python",
+      "description": "Automatize a leitura de múltiplos CSVs e gere relatórios consolidados com métricas práticas.",
+      "path": "assignments/automacao-relatorios-python",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
