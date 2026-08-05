@@ -1,11 +1,11 @@
-
 # 📘 Assignment: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construir o clássico jogo da Forca em Python, praticando manipulação de strings, loops e condicionais.
+Ao final, o aluno deverá implementar o fluxo completo de uma partida com regras de vitória e derrota.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o jogo da Forca
 
@@ -20,3 +20,15 @@ O programa concluído deve:
 - Rastrear e exibir o número de tentativas incorretas restantes.
 - Encerrar o jogo quando a palavra for adivinhada ou quando as tentativas acabarem.
 - Exibir mensagens claras de vitória e derrota ao final da partida.
+
+Exemplo de execução:
+```text
+Palavra: _ _ _ _ _
+Digite uma letra: a
+Boa tentativa! Palavra: _ a _ _ a
+Tentativas restantes: 5
+
+Digite uma letra: z
+Letra incorreta.
+Tentativas restantes: 4
+```
